@@ -1,0 +1,16 @@
+{
+  "Name": "TOME-Go2022VestibularMRI",
+  "BIDSVersion": "1.6.0",
+  "DatasetType": "raw",
+  "Authors": [
+    "Cammille C Go",
+    "Huseyin O Taskin",
+    "Seyed Ahmad Ahmadi",
+    "Giulia Frazzetta",
+    "Laura Cutler",
+    "Saguna Malhotra",
+    "Jessica IW Morgan",
+    "Virginia L Flanagin",
+    "Geoffrey K Aguirre"
+  ]
+}
